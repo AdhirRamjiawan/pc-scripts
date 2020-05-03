@@ -16,5 +16,10 @@ sudo apt-get -y install peek
 sudo snap install --classic code
 sudo apt -y autoremove
 
+sudo apt-get install -y build-essential vim git cscope libncurses-dev libssl-dev bison flex
+
+sudo apt-get install -y git-email
+sudo apt-get install -y codespell
+
 git config --global user.email "adhirramjiawan0@gmail.com"
 git config --global user.name "Adhir Ramjiawan"

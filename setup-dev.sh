@@ -21,5 +21,7 @@ sudo apt-get install -y build-essential vim git cscope libncurses-dev libssl-dev
 sudo apt-get install -y git-email
 sudo apt-get install -y codespell
 
+sudo apt-get install -y mingw-w64-common mingw-w64-tools
+
 git config --global user.email "adhirramjiawan0@gmail.com"
 git config --global user.name "Adhir Ramjiawan"
